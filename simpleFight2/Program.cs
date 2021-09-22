@@ -6,7 +6,20 @@ namespace simpleFight2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Fighter hero = new Fighter();
+            Fighter enemy = new Fighter();
+
+            hero.Hero();
+            enemy.Enemy();
+
+
+
+
+
+            while (hero.hp > 0 && enemy.hp > 0)
+            {
+                Console.WriteLine(enemy.name);
+            }
         }
     }
 }

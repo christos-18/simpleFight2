@@ -1,0 +1,16 @@
+C:\Users\christos.potamitis\Documents\git\simpleFight2\simpleFight2\obj\Debug\net5.0\simpleFight2.csprojAssemblyReference.cache
+C:\Users\christos.potamitis\Documents\git\simpleFight2\simpleFight2\obj\Debug\net5.0\simpleFight2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\christos.potamitis\Documents\git\simpleFight2\simpleFight2\obj\Debug\net5.0\simpleFight2.AssemblyInfoInputs.cache
+C:\Users\christos.potamitis\Documents\git\simpleFight2\simpleFight2\obj\Debug\net5.0\simpleFight2.AssemblyInfo.cs
+C:\Users\christos.potamitis\Documents\git\simpleFight2\simpleFight2\obj\Debug\net5.0\simpleFight2.csproj.CoreCompileInputs.cache
+C:\Users\christos.potamitis\Documents\git\simpleFight2\simpleFight2\bin\Debug\net5.0\simpleFight2.exe
+C:\Users\christos.potamitis\Documents\git\simpleFight2\simpleFight2\bin\Debug\net5.0\simpleFight2.deps.json
+C:\Users\christos.potamitis\Documents\git\simpleFight2\simpleFight2\bin\Debug\net5.0\simpleFight2.runtimeconfig.json
+C:\Users\christos.potamitis\Documents\git\simpleFight2\simpleFight2\bin\Debug\net5.0\simpleFight2.runtimeconfig.dev.json
+C:\Users\christos.potamitis\Documents\git\simpleFight2\simpleFight2\bin\Debug\net5.0\simpleFight2.dll
+C:\Users\christos.potamitis\Documents\git\simpleFight2\simpleFight2\bin\Debug\net5.0\ref\simpleFight2.dll
+C:\Users\christos.potamitis\Documents\git\simpleFight2\simpleFight2\bin\Debug\net5.0\simpleFight2.pdb
+C:\Users\christos.potamitis\Documents\git\simpleFight2\simpleFight2\obj\Debug\net5.0\simpleFight2.dll
+C:\Users\christos.potamitis\Documents\git\simpleFight2\simpleFight2\obj\Debug\net5.0\ref\simpleFight2.dll
+C:\Users\christos.potamitis\Documents\git\simpleFight2\simpleFight2\obj\Debug\net5.0\simpleFight2.pdb
+C:\Users\christos.potamitis\Documents\git\simpleFight2\simpleFight2\obj\Debug\net5.0\simpleFight2.genruntimeconfig.cache
