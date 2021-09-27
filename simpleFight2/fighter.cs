@@ -99,6 +99,17 @@ namespace simpleFight2
 
         }
 
+        public void fight()
+        {
+            Console.Clear();
+
+            
+
+
+
+
+        }
+
 
 
     }
