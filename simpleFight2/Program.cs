@@ -19,6 +19,7 @@ namespace simpleFight2
             while (hero.hp > 0 && enemy.hp > 0)
             {
                 Console.WriteLine(enemy.name);
+                hero.hp -= 22;
             }
         }
     }
