@@ -39,7 +39,7 @@ namespace simpleFight2
 
             else if (name == "Walter")
             {
-                hp = 120;
+                hp = 170;
             }
 
             Console.Clear();
@@ -75,16 +75,19 @@ namespace simpleFight2
             if (name == "Enemy 1") //beroende på vilken Enemy man möter så är det olika svårt
             {
                 hp = 90;
+                damage = 30;
             }
 
             else if (name == "Enemy 2")
             {
                 hp = 150;
+                damage = 25;
             }
 
             else if (name == "Enemy 3")
             {
                 hp = 130;
+                damage = 25;
             }
 
 
@@ -103,7 +106,7 @@ namespace simpleFight2
         {
             Console.Clear();
 
-            
+
 
 
 
